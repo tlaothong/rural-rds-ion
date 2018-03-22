@@ -1,0 +1,8 @@
+{
+  "name": "RuralRdIon",
+  "app_id": "df4f90b7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
