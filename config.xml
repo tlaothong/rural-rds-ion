@@ -85,6 +85,5 @@
         <variable name="APP_ID" value="df4f90b7" />
         <variable name="CHANNEL_NAME" value="Master" />
         <variable name="UPDATE_METHOD" value="auto" />
-        <variable name="WARN_DEBUG" value="false" />
     </plugin>
 </widget>
